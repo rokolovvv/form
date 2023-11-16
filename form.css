@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body {
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: burlywood;
+}
+form {
+    background-color: rgb(213, 71, 71);
+    border: 1px solid rgb(213, 71, 71);
+    padding: 5rem;
+    display: flex;
+    flex-direction: column;
+    border-radius: 45px;
+}
+form h1 {
+    margin-bottom: 47px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+form input {
+    background-color: blanchedalmond;
+    margin-bottom: 15px;
+    border-radius: 30px;
+}
+form button {
+    position: absolute;
+    background-color: blanchedalmond;
+    margin-left: 69px;
+    margin-top: 290px;
+    border-radius: 30px;
+    width: 100px;
+}
+legend{
+    position: absolute;
+    margin-top: -13px;
+    margin-left: 4px;
+}
+.nput {
+    position: absolute;
+    margin-top: 11px;
+    margin-left: 127px;
+}
+.nputt {
+    position: absolute;
+    margin-top: 11px;
+    margin-left: 6px;
+}
+.lab {
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 151px;
+}
+.labb {
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 28px;
+}
